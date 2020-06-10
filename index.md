@@ -1,3 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+    <version>2.0.0.0</version>
+    <url>http://rbsoft.org/downloads/AutoUpdaterTest.zip</url>
+    <changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
+    <mandatory>false</mandatory>
+</item>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/53m1k0l0n/53m1k0l0n.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
